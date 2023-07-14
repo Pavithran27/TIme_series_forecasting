@@ -1,2 +1,2 @@
-# TIme_series_forecasting
+# Time_series_forecasting
 Creating a time series models for different data
